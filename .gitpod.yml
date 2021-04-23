@@ -1,4 +1,4 @@
-# image: jelaniwoods/appdev2021-vanilla-rails@sha256:158f19c808d1343a1c249421b587c76478eeba8832ac06fe1eb3424e4d21e202
+image: jelaniwoods/appdev2021-vanilla-rails@sha256:43b44732485fb179806ee32b9e94bb42b72e874f66ceac4180e5f496e7186344
 
 tasks:
   - command: git config --global push.default upstream && bundle install
